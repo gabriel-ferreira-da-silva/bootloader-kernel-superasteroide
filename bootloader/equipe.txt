@@ -1,0 +1,23 @@
+alunos: 
+
+nome  - gabriel ferreira da silva
+login - gfs4
+
+
+
+
+
+
+
+
+
+
+* ainda não encontrei uma equipe e fiz
+tudo sozinho de novo. vou encontrar uma
+equipe eu prometo
+
+
+** altamente recomendavel ler o pdf 
+Documentação.pdf que eu fiz para explicar
+como o codigo funciona
+
