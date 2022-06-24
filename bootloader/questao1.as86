@@ -41,15 +41,6 @@ _print:
         int 10h
         ret
 
-;_clear:
-;        mov ah, 0
-;        mov al, 10h
-;        int 10h
-;        ret
-
-;_fim:
-;	jmp $
-
 
 
 

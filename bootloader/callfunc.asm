@@ -1,4 +1,3 @@
-
 questao1 db "asm1", 0
 questao2 db "asm2", 0
 questao3 db "asm3", 0
